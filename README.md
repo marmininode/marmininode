@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/marmininode/marmininode/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/marmininode/marmininode/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **marmininode/marmininode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
