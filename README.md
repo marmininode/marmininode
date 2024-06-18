@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Mario Armini's Github work profile
 
 <img src="https://raw.githubusercontent.com/marmininode/marmininode/output/snake.svg" alt="Snake animation" />
 
